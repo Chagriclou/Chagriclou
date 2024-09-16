@@ -7,25 +7,25 @@
         <mxCell id="B11OeWX0KtariZhBaSKQ-3" value="Utilisateur&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFCE9F;" vertex="1" parent="1">
           <mxGeometry x="-71" y="364.5" width="54" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="B11OeWX0KtariZhBaSKQ-5" value="" style="whiteSpace=wrap;html=1;fillColor=#2646ED;" vertex="1" parent="1">
+        <mxCell id="B11OeWX0KtariZhBaSKQ-5" value="" style="whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
           <mxGeometry x="116" y="142" width="508" height="588" as="geometry" />
         </mxCell>
         <mxCell id="B11OeWX0KtariZhBaSKQ-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Bouilloire électrique&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="253" y="166" width="234" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B11OeWX0KtariZhBaSKQ-8" value="Arrêter automatiquement le chauffage&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ED433D;" vertex="1" parent="1">
+        <mxCell id="B11OeWX0KtariZhBaSKQ-8" value="Arrêter automatiquement le chauffage&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="258" y="217" width="224" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B11OeWX0KtariZhBaSKQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B11OeWX0KtariZhBaSKQ-11" target="B11OeWX0KtariZhBaSKQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B11OeWX0KtariZhBaSKQ-11" value="Bouillir de l’eau de manière automatique&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="B11OeWX0KtariZhBaSKQ-11" value="Bouillir de l’eau de manière automatique&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="258" y="362" width="224" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B11OeWX0KtariZhBaSKQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B11OeWX0KtariZhBaSKQ-12" target="B11OeWX0KtariZhBaSKQ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B11OeWX0KtariZhBaSKQ-12" value="Arrêter automatiquement le chauffage&amp;nbsp;&lt;div&gt;{Refines = permettre l’arrêt manuelle du chauffage}&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="B11OeWX0KtariZhBaSKQ-12" value="Arrêter automatiquement le chauffage&amp;nbsp;&lt;div&gt;{Refines = permettre l’arrêt manuelle du chauffage}&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="258" y="559" width="224" height="143" as="geometry" />
         </mxCell>
         <mxCell id="B11OeWX0KtariZhBaSKQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B11OeWX0KtariZhBaSKQ-3">
@@ -33,7 +33,7 @@
             <mxPoint x="258" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B11OeWX0KtariZhBaSKQ-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="B11OeWX0KtariZhBaSKQ-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="675" y="122" width="218" height="95" as="geometry" />
         </mxCell>
         <mxCell id="B11OeWX0KtariZhBaSKQ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B11OeWX0KtariZhBaSKQ-23">
@@ -41,7 +41,7 @@
             <mxPoint x="658" y="311" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B11OeWX0KtariZhBaSKQ-23" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;L&#39;eau appariat implicitement comme&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&amp;nbsp;matière d&#39;oeuvre dans le cas,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;mais nous la faison apparaitre&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;explicitement dans ce diagramme.&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="B11OeWX0KtariZhBaSKQ-23" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;L&#39;eau appariat implicitement comme&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&amp;nbsp;matière d&#39;oeuvre dans le cas,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;mais nous la faison apparaitre&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;explicitement dans ce diagramme.&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="679" y="133.5" width="210" height="72" as="geometry" />
         </mxCell>
         <mxCell id="B11OeWX0KtariZhBaSKQ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B11OeWX0KtariZhBaSKQ-28" target="B11OeWX0KtariZhBaSKQ-11">
